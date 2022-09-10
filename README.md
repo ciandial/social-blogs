@@ -10,5 +10,5 @@ The service allows:
 - moderation of records, work with users, creation of groups is carried out through the admin panel
 
 ## Technology stack:
--Python3
+- Python3
 - Django
